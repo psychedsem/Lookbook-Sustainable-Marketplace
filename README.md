@@ -7,7 +7,7 @@
 LookBook is a Python-based Item Management System (IMS) built around a simple question: **what if a marketplace could actively encourage more sustainable consumption?**
 
 > 🇬🇧 [Open the English Notebook](LookBook%20(ENG).ipynb)
-> 🇮🇹 [Apri il Notebook in italiano](LookBook%20(ITA).ipynb)
+> 🇮🇹 [Open the Italian Notebook](LookBook%20(ITA).ipynb)
 
 ## Overview
 
@@ -120,7 +120,7 @@ Il progetto si concentra intenzionalmente sui concetti fondamentali di Python, s
 
 Sono disponibili due versioni del notebook:
 
-> 🇬🇧 [Open the English Notebook](LookBook%20(ENG).ipynb)
+> 🇬🇧 [Apri il Notebook in inglese](LookBook%20(ENG).ipynb)
 > 🇮🇹 [Apri il Notebook in italiano](LookBook%20(ITA).ipynb)
 
 ## Tecnologie
