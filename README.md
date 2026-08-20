@@ -4,11 +4,11 @@
 
 ## 🇬🇧 English
 
-## Python-Driven Sustainable Fashion Marketplace
+### Python-Driven Sustainable Fashion Marketplace
 
 LookBook is a Python-based Item Management System (IMS) built around a simple question: **what if a marketplace could actively encourage more sustainable consumption?**
 
-## Overview
+### Overview
 
 LookBook is a second-hand clothing marketplace that goes beyond storing and displaying items by integrating environmental awareness directly into the user experience.
 
@@ -16,7 +16,7 @@ Each item includes standard marketplace attributes such as category, brand, and 
 
 The system also introduces an **EcoScore** and an estimated **impact avoided** metric, designed to make the environmental value of second-hand choices more visible to users.
 
-## Concept
+### Concept
 
 The project explores a more data-driven approach to sustainable consumption.
 
@@ -24,7 +24,7 @@ Instead of functioning as a passive marketplace, LookBook experiments with using
 
 The underlying idea is simple: digital products can optimize not only for convenience, but also for impact.
 
-## Sustainability Approach
+### Sustainability Approach
 
 LookBook incorporates sustainability into the structure of the marketplace through:
 
@@ -37,7 +37,7 @@ LookBook incorporates sustainability into the structure of the marketplace throu
 
 The project connects digital product design with broader sustainability goals, particularly responsible consumption and climate awareness.
 
-## Technical Overview
+### Technical Overview
 
 The project is built entirely in **Python** and runs in a **Jupyter Notebook** environment.
 
@@ -52,7 +52,7 @@ It uses:
 
 The project intentionally focuses on core Python concepts rather than external frameworks.
 
-## Project Files
+### Project Files
 
 Two versions of the notebook are available:
 
@@ -60,7 +60,7 @@ Two versions of the notebook are available:
 > 
 > 🇮🇹 [Open the Italian Notebook](LookBook%20(ITA).ipynb)
 
-## Technologies
+### Technologies
 
 `Python` · `Jupyter Notebook`
 
@@ -68,11 +68,11 @@ Two versions of the notebook are available:
 
 ## 🇮🇹 Italiano
 
-## Marketplace di moda sostenibile sviluppato in Python
+### Marketplace di moda sostenibile sviluppato in Python
 
 LookBook è un **Item Management System (IMS)** sviluppato in Python e costruito attorno a una semplice domanda: **e se un marketplace potesse incoraggiare attivamente forme di consumo più sostenibili?**
 
-## Panoramica
+### Panoramica
 
 LookBook è un marketplace di abbigliamento di seconda mano che va oltre la semplice archiviazione e visualizzazione degli articoli, integrando la consapevolezza ambientale direttamente nell'esperienza dell'utente.
 
@@ -80,7 +80,7 @@ Ogni articolo include i normali attributi di un marketplace, come categoria, bra
 
 Il sistema introduce inoltre un **EcoScore** e una stima dell'**impatto evitato**, pensati per rendere più evidente il valore ambientale delle scelte di seconda mano.
 
-## Concept
+### Concept
 
 Il progetto esplora un approccio maggiormente basato sui dati al consumo sostenibile.
 
@@ -88,7 +88,7 @@ Invece di funzionare come una piattaforma passiva, LookBook sperimenta l'utilizz
 
 L'idea alla base è semplice: i prodotti digitali possono essere progettati per ottimizzare non soltanto la comodità, ma anche l'impatto.
 
-## Approccio alla sostenibilità
+### Approccio alla sostenibilità
 
 LookBook integra la sostenibilità nella struttura stessa del marketplace attraverso:
 
@@ -101,7 +101,7 @@ LookBook integra la sostenibilità nella struttura stessa del marketplace attrav
 
 Il progetto collega così il design di prodotti digitali a obiettivi più ampi di sostenibilità, in particolare al consumo responsabile e alla consapevolezza climatica.
 
-## Panoramica tecnica
+### Panoramica tecnica
 
 Il progetto è sviluppato interamente in **Python** ed eseguito in ambiente **Jupyter Notebook**.
 
@@ -116,7 +116,7 @@ Utilizza:
 
 Il progetto si concentra intenzionalmente sui concetti fondamentali di Python, senza utilizzare framework esterni.
 
-## File del progetto
+### File del progetto
 
 Sono disponibili due versioni del notebook:
 
@@ -124,6 +124,6 @@ Sono disponibili due versioni del notebook:
 > 
 > 🇮🇹 [Apri il Notebook in italiano](LookBook%20(ITA).ipynb)
 
-## Tecnologie
+### Tecnologie
 
 `Python` · `Jupyter Notebook`
