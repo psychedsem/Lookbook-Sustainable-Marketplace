@@ -2,6 +2,8 @@
 
 ![LookBook — Python-Driven Sustainable Fashion Marketplace](LookBook%20\(cover\).png)
 
+## 🇬🇧 English
+
 ## Python-Driven Sustainable Fashion Marketplace
 
 LookBook is a Python-based Item Management System (IMS) built around a simple question: **what if a marketplace could actively encourage more sustainable consumption?**
@@ -64,7 +66,7 @@ Two versions of the notebook are available:
 
 ---
 
-# Versione italiana
+## 🇮🇹 Italiano
 
 ## Marketplace di moda sostenibile sviluppato in Python
 
